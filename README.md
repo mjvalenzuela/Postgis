@@ -14,7 +14,6 @@ Este repositorio contiene ejemplos prácticos, consultas y estructuras de datos 
 - `consultas_agregadas.sql` → Agrupaciones, funciones COUNT, SUM, AVG, etc.
 - `creacion_tablas.sql` → Tablas con y sin geometría, claves primarias y foráneas.
 - `carga_datos.sql` → Ejemplos para insertar registros manualmente o desde archivos externos.
-- (Puedes ir agregando más archivos según avance el curso)
 
 ---
 
